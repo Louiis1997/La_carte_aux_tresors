@@ -1,3 +1,9 @@
+## How to use this app
+1. Allow the execution of the scripts with `chmod +x run.sh` 
+2. You can run the app with `./run.sh` and the path of a map :
+- `./run.sh src/main/resources/MadreDeDioMap.txt"`
+3. You can find your output in the file `src/main/resources/output.txt`
+
 # La carte aux tresors
 Exercice pratique - La carte aux trésors
 Guidez les aventuriers en quête de trésors !
